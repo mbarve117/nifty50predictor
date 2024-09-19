@@ -1,2 +1,2 @@
 # stockpredictor
-Predicting trends in the different stocks
+Predicting trends in different stocks
