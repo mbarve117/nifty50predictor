@@ -1,2 +1,2 @@
-# nifty50predictor
-Predicting trends in the NIFTY 50 index
+# stockpredictor
+Predicting trends in the different stocks
