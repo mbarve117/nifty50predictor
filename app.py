@@ -49,7 +49,7 @@ for i in range(100, train_array.shape[0]):
 
 x_train, y_train = np.array(x_train), np.array(y_train)
 
-model = keras.saving.load_model("keras_model.keras")
+model = keras.saving.load_model("lstm_model.keras")
 
 past_100_days = train_data.tail(100)
 final_df = pd.concat([past_100_days, test_data], ignore_index=True)
